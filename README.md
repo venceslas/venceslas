@@ -1,4 +1,4 @@
-## Hi there 
+## Live long and prosper 
 I am full professor in computer science and especially computer graphics.
 I teach mainly Computer Graphics
 
