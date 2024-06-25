@@ -1,6 +1,6 @@
 ## Live long and prosper 
 I am full professor in computer science and especially computer graphics.
-I teach mainly Computer Graphics :grinning_face_with_smiling_eyes:
+I teach mainly Computer Graphics 😁
 
 <!--
 **venceslas/venceslas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
